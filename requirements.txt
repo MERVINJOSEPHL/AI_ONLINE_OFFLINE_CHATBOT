@@ -13,4 +13,5 @@ uvicorn==0.30.3  # Added Uvicorn
 google-genai
 nltk
 psutil
-llama-cpp-python
+python-multipart
+# llama-cpp-python
